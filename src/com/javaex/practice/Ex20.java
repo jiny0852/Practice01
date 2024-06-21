@@ -10,8 +10,8 @@ public class Ex20 {
 		int i = 10;
 		int n = i++ %2;
 		
-		System.out.println(i);
-		System.out.println(n);
+		System.out.println(i); //10
+		System.out.println(n); ////1? 아 계산 다 끝나고 넘어갈때 증가
 		
 		
 

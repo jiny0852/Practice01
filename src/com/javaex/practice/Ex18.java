@@ -7,7 +7,7 @@ public class Ex18 {
 	public static void main(String[] args) {
 		
 		int x;
-		System.out.println(x);
+		//System.out.println(x); // 변수 x가 int 선언만 되고 값이 지정되지않았으까 
 		
 		
 		

@@ -11,7 +11,7 @@ public class Ex07 {
 		
 		int ture; //int true; 변수명에 예약서 사용
 		int sharp_of_workers; //int #_of_workers; 변수명에 특수문자 사용
-		int countOfLettersInString;
+		int countOfLettersInString; //변수명이 너무 길다??
 		int first_Level1; //int 1stLevel1; 변수명 첫문자에 숫자 사용
 		int person_sharp; //int person#; 변수명에 특수문자 사용
 		int _person; //변수명 첫문자에 기호 사용 권장 안함

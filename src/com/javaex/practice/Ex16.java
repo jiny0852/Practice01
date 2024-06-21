@@ -11,10 +11,10 @@ public class Ex16 {
 		int a = ++x *2;
 		int b = y++ *2;
 		
-		System.out.println("a=" + a);
-		System.out.println("b=" + b);
-		System.out.println("x=" + x);
-		System.out.println("y=" + y);
+		System.out.println("a=" + a); //4
+		System.out.println("b=" + b); //2
+		System.out.println("x=" + x); //2
+		System.out.println("y=" + y); //1 ////계산이 다끝나서 2? 진행방향 완벽 이해완
 	
 		
 
