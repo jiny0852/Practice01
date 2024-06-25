@@ -1,7 +1,7 @@
 package com.javaex.practice;
 
 public class Ex03 {
-	ㅣㅣㅣㅣ
+	
 	/*
 	JVM에 대한 설명으로 틀린 것을 찾아 수정해보세요
 	(1) JVM은 java.exe 명령어에 의해 구동된다

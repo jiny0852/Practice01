@@ -13,10 +13,10 @@ public class Ex33 {
 		final double pi = 3.14;
 		
 		
-		System.out.println("반지름 : ");
+		System.out.print("반지름 : ");
 		r = sc.nextDouble();
 		
-		double result = 4/3*pi*(r^3);
+		double result = (4/3.0)*pi*(r*r*r);
 		System.out.println("구의 부피는 : " + result + " 입니다.");
 		
 		

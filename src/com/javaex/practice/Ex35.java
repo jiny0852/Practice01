@@ -7,13 +7,11 @@ public class Ex35 {
 	public static void main(String[] args) {
 		
 		long d;
-		int s = 300000;
+		long s = 300000L;
 		
-		d = 365 * 24 * 60 * s; //일 시 분
+		d = 365 * 24 * 60 * 60* s; //일 시 분
 		
 		System.out.println("빛이 1년 동안 가는 거리는  " + d + "  km 입니다.");
-		
-		왠또 왜ㅔ이래
 
 	}
 

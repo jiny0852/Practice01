@@ -17,12 +17,12 @@ public class Ex34 {
 		
 		System.out.print("화씨 : ");
 		f = sc.nextDouble();
-		c = (5/9)*(f-32.0);
+		c = (5/9.0)*(f-32.0);
 		
 		System.out.println("화씨 " + f + " 의 섭씨온도는 " + c + " 입니다.");
 			
 		
-		이거 왜이래		
+				
 		sc.close();
 
 	}

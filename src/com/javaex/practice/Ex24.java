@@ -13,12 +13,12 @@ public class Ex24 {
 		//결과값의 자료형을 지정해주지 않아서..?
 		//
 		double f = 80.0;
-		double c = 5/9*(f-32.0);
+		double c = (5/9.0)*(f-32.0);
 		
 		System.out.println(c);
 		
 		
-이거 왜이래
+
 	}
 
 }
